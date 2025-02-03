@@ -4,5 +4,5 @@
 </p>
 <p align ="center">
  I am Caster Jarette S. Orticio
- <br>A Computer Engineering student
+ <br>Computer Engineering student
 </p>
